@@ -1,0 +1,402 @@
+[
+    {
+        "name": "moistful",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 6,
+        "average_rating": 3.8333
+    },
+    {
+        "name": "myalgia",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 6,
+        "average_rating": 2.1667
+    },
+    {
+        "name": "phasmatrope",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 2,
+        "average_rating": 3.0
+    },
+    {
+        "name": "cacochroia",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 3,
+        "average_rating": 2.6667
+    },
+    {
+        "name": "retrofracted",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 3,
+        "average_rating": 3.0
+    },
+    {
+        "name": "chartographist",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 2,
+        "average_rating": 1.5
+    },
+    {
+        "name": "breakable",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 1,
+        "average_rating": 4.0
+    },
+    {
+        "name": "astrologistic",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 4,
+        "average_rating": 3.25
+    },
+    {
+        "name": "tetraptote",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 6,
+        "average_rating": 3.3333
+    },
+    {
+        "name": "cacotrophia",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 2,
+        "average_rating": 1.5
+    },
+    {
+        "name": "exsibilate",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 4,
+        "average_rating": 3.0
+    },
+    {
+        "name": "celebrant",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 7,
+        "average_rating": 3.4286
+    },
+    {
+        "name": "Gemmingia",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 2,
+        "average_rating": 1.5
+    },
+    {
+        "name": "plumatellid",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 2,
+        "average_rating": 3.0
+    },
+    {
+        "name": "misdecision",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 2,
+        "average_rating": 2.0
+    },
+    {
+        "name": "Trithrinax",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 2,
+        "average_rating": 3.0
+    },
+    {
+        "name": "compilement",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 4,
+        "average_rating": 2.25
+    },
+    {
+        "name": "overdestructive",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 1,
+        "average_rating": 4.0
+    },
+    {
+        "name": "ental",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 3,
+        "average_rating": 2.3333
+    },
+    {
+        "name": "slour",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 3,
+        "average_rating": 2.6667
+    },
+    {
+        "name": "yajnopavita",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 6,
+        "average_rating": 3.5
+    },
+    {
+        "name": "competent",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 5,
+        "average_rating": 2.8
+    },
+    {
+        "name": "holdable",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 2,
+        "average_rating": 1.5
+    },
+    {
+        "name": "convenience",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 3,
+        "average_rating": 2.3333
+    },
+    {
+        "name": "cartographical",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 1,
+        "average_rating": 1.0
+    },
+    {
+        "name": "Lucayan",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 4,
+        "average_rating": 2.0
+    },
+    {
+        "name": "protopectinase",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 2,
+        "average_rating": 4.0
+    },
+    {
+        "name": "chlorinator",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 4,
+        "average_rating": 3.0
+    },
+    {
+        "name": "paleness",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 5,
+        "average_rating": 1.4
+    },
+    {
+        "name": "impermeability",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 2,
+        "average_rating": 3.0
+    },
+    {
+        "name": "nob",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 4,
+        "average_rating": 2.0
+    },
+    {
+        "name": "untorrid",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 1,
+        "average_rating": 2.0
+    },
+    {
+        "name": "indeed",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 4,
+        "average_rating": 2.5
+    },
+    {
+        "name": "acanthial",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 4,
+        "average_rating": 2.75
+    },
+    {
+        "name": "tectorial",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 4,
+        "average_rating": 3.5
+    },
+    {
+        "name": "redraft",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 2,
+        "average_rating": 2.5
+    },
+    {
+        "name": "mordantly",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 1,
+        "average_rating": 3.0
+    },
+    {
+        "name": "overrack",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 3,
+        "average_rating": 4.0
+    },
+    {
+        "name": "thiostannous",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 3,
+        "average_rating": 3.3333
+    },
+    {
+        "name": "refractometry",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 3,
+        "average_rating": 2.0
+    },
+    {
+        "name": "esugarization",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 4,
+        "average_rating": 2.25
+    },
+    {
+        "name": "invitingness",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 4,
+        "average_rating": 3.75
+    },
+    {
+        "name": "anorthose",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 10,
+        "average_rating": 3.3
+    },
+    {
+        "name": "wulfenite",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 3,
+        "average_rating": 1.6667
+    },
+    {
+        "name": "ponderously",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 6,
+        "average_rating": 4.0
+    },
+    {
+        "name": "freaky",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 1,
+        "average_rating": 3.0
+    },
+    {
+        "name": "sudoral",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 5,
+        "average_rating": 3.6
+    },
+    {
+        "name": "payee",
+        "level": 2,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 3,
+        "average_rating": 3.0
+    },
+    {
+        "name": "unirradiated",
+        "level": 0,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 5,
+        "average_rating": 2.0
+    },
+    {
+        "name": "unstifled",
+        "level": 1,
+        "published": true,
+        "created_on": "2019-12-30",
+        "review_count": 3,
+        "average_rating": 4.3333
+    }
+]
